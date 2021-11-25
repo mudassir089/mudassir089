@@ -11,7 +11,8 @@
     <a href="https://twitter.com/Mudassir78992"><img alt="Twitter" src="https://img.shields.io/badge/-Tag me-1DA1F2?style=social&logo=twitter" /></a>
     <a href="https://www.linkedin.com/in/muhammad-mudassir-1b1992201/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Follow Me-0077B5?style=social&logo=linkedin" /></a>
     <a href="https://www.instagram.com/mudassir11110/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/-Don't forget to like 😅-E4405F?style=social&logo=instagram" /></a>
-    <a href="https://www.fiverr.com/mudassir0900?up_rollout=true" src="https://img.shields.io/badge/-fiverr-12100E?style=social&logo=fiverr&logoColor=1DBF73" /></a>
+    <a href="https://www.fiverr.com/mudassir0900?up_rollout=true" src="https://img.shields.io/badge/-fiverr-12100E?style=social&logo=fiverr&logoColor=1DBF73" />
+</a>
     <div>
         <a href="https://github.com/mudassir089">
             <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
